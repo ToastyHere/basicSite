@@ -4,3 +4,4 @@ package = "@algolia/netlify-plugin-crawler"
   branches = ['main', 'develop', 'feat/add-algolia']
   pathPrefix = "/"
   renderJavaScript = true
+  template= "hierarchical"
